@@ -375,7 +375,7 @@ biblioteca-magica/
 
 | # | Nome | GitHub |
 |---|---|---|
-| 1 | Desenvolvedor 1 — Nome | [@usuario](https://github.com/usuario) |
+| 1 | Desenvolvedor 1 — paivafgustavo | [@usuario](https://github.com/usuario) |
 | 2 | Desenvolvedor 2 — Nome | [@usuario](https://github.com/usuario) |
 | 3 | Desenvolvedor 3 — Nome | [@usuario](https://github.com/usuario) |
 | 4 | Desenvolvedor 4 — Nome | [@usuario](https://github.com/usuario) |
