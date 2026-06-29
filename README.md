@@ -1,4 +1,4 @@
-# 📚 Biblioteca Mágica — Mini Projeto 03
+# 📚 Biblioteca Mágica — Mini Projeto 03 — ROADMAP PARA DESENVOLVIMENTO
 
 > **Backend de Inventário para Jogo de RPG** | Structs · Ponteiros · Alocação Dinâmica · Arquivos em C
 
@@ -384,7 +384,7 @@ biblioteca-magica/
 
 ## 🔗 Repositório
 
-> **[github.com/seu-usuario/biblioteca-magica](https://github.com/seu-usuario/biblioteca-magica)**
+> **[github.com/seu-usuario/biblioteca-magica](https://github.com/outz1/mp-ip-magicLibrary)**
 
 ---
 
