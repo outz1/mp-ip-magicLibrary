@@ -174,7 +174,7 @@ gantt
 
 ---
 
-### 👤 Desenvolvedor 1 — Nome
+### 👤 Desenvolvedor 1 — Gustavo Ferreira Paiva
 **Papel: Estrutura Base & Cadastro**
 
 | Tarefa | Descrição | Prioridade |
