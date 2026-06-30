@@ -191,7 +191,7 @@ gantt
 
 ---
 
-### 👤 Desenvolvedor 2 — Nome
+### 👤 Desenvolvedor 2 — Rafael Vinicius
 **Papel: Visualização & Edição**
 
 | Tarefa | Descrição | Prioridade |
