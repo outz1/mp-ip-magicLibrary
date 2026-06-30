@@ -225,7 +225,7 @@ gantt
 
 ---
 
-### 👤 Desenvolvedor 4 — Nome
+### 👤 Desenvolvedor 4 — Arthur Morais de Lima Carvalho
 **Papel: Criptografia, Criatividade & Apresentação**
 
 | Tarefa | Descrição | Prioridade |
@@ -376,7 +376,7 @@ biblioteca-magica/
 | # | Nome | GitHub |
 |---|---|---|
 | 1 | Desenvolvedor 1 — Gustavo Ferreira Paiva | [@usuario](https://github.com/paivafgustavo) |
-| 2 | Desenvolvedor 2 — Nome | [@usuario](https://github.com/usuario) |
+| 2 | Desenvolvedor 2 — Eduardo de Brito Soares | [@outz1](https://github.com/outz1) |
 | 3 | Desenvolvedor 3 — Nome | [@usuario](https://github.com/usuario) |
 | 4 | Desenvolvedor 4 — Arthur Morais de Lima Carvalho | [@amorais11](https://github.com/amorais11) |
 
@@ -384,13 +384,13 @@ biblioteca-magica/
 
 ## 🔗 Repositório
 
-> **[github.com/seu-usuario/biblioteca-magica](https://github.com/outz1/mp-ip-magicLibrary)**
+> **[github.com/outz1/mp-ip-magicLibrary](https://github.com/outz1/mp-ip-magicLibrary)**
 
 ---
 
 <div align="center">
 
-*Desenvolvido para a disciplina de Programação de Computadores*  
+*Desenvolvido para a disciplina de Introdução a Programação*  
 *Universidade Federal de Goiás (UFG)*
 
 </div>
