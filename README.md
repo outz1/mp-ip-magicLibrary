@@ -1,4 +1,4 @@
-# 📚 Biblioteca Mágica — Mini Projeto 03 — ROADMAP PARA DESENVOLVIMENTO
+# 📚 Biblioteca Mágica — Mini Projeto — ROADMAP PARA DESENVOLVIMENTO
 
 > **Backend de Inventário para Jogo de RPG** | Structs · Ponteiros · Alocação Dinâmica · Arquivos em C
 
@@ -27,7 +27,7 @@
 
 ## 🏰 Sobre o Projeto
 
-**Biblioteca Mágica** é o sistema de backend do inventário para um jogo de RPG, desenvolvido como Mini Projeto 03 da disciplina de Programação de Computadores. O sistema gerencia um catálogo de **livros mágicos** colecionados pelo jogador durante a campanha, com persistência de dados em arquivo (save game) e criptografia dos títulos armazenados.
+**Biblioteca Mágica** é o sistema de backend do inventário para um jogo de RPG, desenvolvido como Mini Projeto da disciplina de Programação de Computadores. O sistema gerencia um catálogo de **livros mágicos** colecionados pelo jogador durante a campanha, com persistência de dados em arquivo (save game) e criptografia dos títulos armazenados.
 
 O sistema é construído inteiramente em **C**, explorando os seguintes conceitos:
 
