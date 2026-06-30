@@ -378,7 +378,7 @@ biblioteca-magica/
 | 1 | Desenvolvedor 1 — Gustavo Ferreira Paiva | [@usuario](https://github.com/paivafgustavo) |
 | 2 | Desenvolvedor 2 — Nome | [@usuario](https://github.com/usuario) |
 | 3 | Desenvolvedor 3 — Nome | [@usuario](https://github.com/usuario) |
-| 4 | Desenvolvedor 4 — Nome | [@usuario](https://github.com/usuario) |
+| 4 | Desenvolvedor 4 — Arthur Morais de Lima Carvalho | [@amorais11](https://github.com/amorais11) |
 
 ---
 
