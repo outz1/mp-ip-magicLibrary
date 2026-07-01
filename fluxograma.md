@@ -65,7 +65,7 @@ Depois da Etapa 1, três pessoas podem trabalhar sem esperar uma pela outra:
 | Quem | Arquivo | Função(ões) | Depende de |
 |---|---|---|---|
 | **Dev 1** | `biblioteca.c` | `inicializarVetor()`, `cadastrarLivro()` | só de `structs.h` |
-| **Dev 2** (você) | `biblioteca.c` | `mostrarLivro()`, `editarLivro()`, `listarTitulos()` | só de `structs.h` |
+| **Dev 2** | `biblioteca.c` | `mostrarLivro()`, `editarLivro()`, `listarTitulos()` | só de `structs.h` |
 | **Dev 4** | `cripto.c` | `criptografar()`, `descriptografar()` | nada — é a função mais isolada do projeto, pode começar **imediatamente**, nem precisa esperar a struct (só mexe em `char[]`) |
 | **Dev 3** | `biblioteca.c` | `deletarLivro()` | só de `structs.h` |
 
