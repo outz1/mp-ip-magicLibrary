@@ -8,7 +8,6 @@
 static void limparBufferEntrada(void) {
     int c;
     while ((c = getchar()) != '\n' && c != EOF) {
-        /* descarta */
     }
 }
 
