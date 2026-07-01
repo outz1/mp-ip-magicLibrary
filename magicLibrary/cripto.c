@@ -13,7 +13,7 @@ void criptografar(char *str) {
         str[i] = (char)(passo1 + caractere_chave);
     }
 }
-
+// VAMO BRASIL DALE NELES!
 void descriptografar(char *str) {
     const char *chave = "HEXA";
     int tam_chave = 4;
