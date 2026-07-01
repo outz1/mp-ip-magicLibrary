@@ -4,10 +4,7 @@
 #include "cripto.h"
 #include "arquivo.h"
 
-
-
-
-static void paraHex(const char origem, chardestinoHex) {
+static void paraHex(const char *origem, char *destinoHex) {
     int i;
     int len = (int)strlen(origem);
     for (i = 0; i < len; i++) {
@@ -16,7 +13,7 @@ static void paraHex(const char origem, chardestinoHex) {
     destinoHex[len * 2] = '\0';
 }
 
-static void deHex(const char origemHex, chardestino) {
+static void deHex(const char *origemHex, char *destino) {
     int i;
     int len = (int)strlen(origemHex) / 2;
     unsigned int byte;
@@ -38,7 +35,7 @@ void salvarBiblioteca(LivroMagico **biblioteca, const char *nomeArquivo) {
         printf("\nerro, nao foi possivel abrir o arquivo '%s' para salvar.\n", nomeArquivo);
         return;
     }
- 
+
 
     for (i = 0; i < MAX_LIVROS; i++) {
         if (biblioteca[i] != NULL) {
