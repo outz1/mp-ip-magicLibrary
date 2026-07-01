@@ -208,7 +208,7 @@ gantt
 
 ---
 
-### 👤 Desenvolvedor 3 — Nome
+### 👤 Desenvolvedor 3 — Rafael Vinicius Vicente
 **Papel: Deleção & Persistência em Arquivo**
 
 | Tarefa | Descrição | Prioridade |

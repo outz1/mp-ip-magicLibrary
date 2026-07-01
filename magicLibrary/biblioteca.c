@@ -14,7 +14,7 @@ void salvarBiblioteca(LivroMagico **biblioteca, const char *nomeArquivo) {
         printf("\nerro, nao foi possivel abrir o arquivo '%s' para salvar.\n", nomeArquivo);
         return;
     }
- 
+
 
     for (i = 0; i < MAX_LIVROS; i++) {
         if (biblioteca[i] != NULL) {
